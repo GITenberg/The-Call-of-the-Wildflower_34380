@@ -1,0 +1,31 @@
+_repo: The-Call-of-the-Wildflower_34380
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Salt, Henry S.
+    aliases:
+    - Salt, H. S.
+    - Salt, Henry Stephens
+    birthdate: 1851
+    deathdate: 1939
+    gutenberg_agent_id: '36994'
+    url: http://www.gutenberg.org/2009/agents/36994
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Stephens_Salt
+description: ''
+gutenberg_issued: '2010-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34380'
+  lccn: '22020535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QK'
+- !lcsh 'Flowers -- Great Britain'
+title: The Call of the Wildflower
+url: http://www.gutenberg.org/ebooks/34380
